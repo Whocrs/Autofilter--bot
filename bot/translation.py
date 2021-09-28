@@ -1,23 +1,20 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG & @MRK_YT
+# (c) @AlbertEinsteinTG & @MRK_YT &Janzuz
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+    START_TEXT = """<i>Hey🙋🏻‍♂️ <b>{}!</b></i>
 
-<b>Am Just A Pro Auto Filter Bot....😉</b>
+<i>Am just an autofilter bot💀 especially made for <b>@cinimakoot✨</b></i>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
+<i>⚠️sorry u can't add Me To Your Group!😓
+but u can always make one 😝</i>
 
-<b>Watch the video below to build an Pro Autofilter bot like me...</b>
-
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+<i>Press /help to know more...</i>"""    
     
     HELP_TEXT = """
-<b>😉How To Use Me!😉?</b>
+<b>😉How To Use Me❓</b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
@@ -46,18 +43,15 @@ class Translation(object):
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><a href="https://t.me/Mo_Tech_YT">MoTechYT</a></b>
 """
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
+    ABOUT_TEXT = """<b>➥ 📃Name</b> : <i>AutoFilter Bot</i>
     
-<b>➥ 😎Creator</b> : <b>@AlbertEinstein_TG</b> 
-
-<b>➥ 👨‍💻Editor</b> : <b>@Mrk_YT</b>
+<b>➥ 😎Creator</b> : <b>@Janzuz</b> 
 
 <b>➥ 🗣️Language</b> : <b>Python3</b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://github.com/Whocrs/Autofilter--bot">💥Click Me</a></b>
 """
